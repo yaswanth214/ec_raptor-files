@@ -1,0 +1,25 @@
+using System;
+using System.IO;
+using System.Text;
+
+namespace natural numbers
+{
+   public class main_class
+   {
+      static System.Random random_generator = new System.Random();
+      public static void Main(string[] args)
+      {
+         ?? i;
+         ?? end;
+      
+         redirect_output("naniy.txt");
+         i =1;
+         end =10;
+         while (!(i>end))
+         {
+            Console.WriteLine(i);
+            i =i+1;
+         }
+      }
+   }
+}
